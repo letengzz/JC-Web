@@ -29,7 +29,7 @@
 
 2. `<!DOCTYPE>` 声明不区分大小写。
 
-**常用的`DOCTYPE`声明** --> [Here](/DOCTYPE)
+**常用的`DOCTYPE`声明** --> [Here](/HTML/DOCTYPE)
 
 ------
 
