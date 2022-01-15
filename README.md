@@ -58,9 +58,14 @@
 
 ![image-20220114212712510](https://cdn.jsdelivr.net/gh/letengzz/Two-C/img/Web/%E6%A6%82%E8%BF%B0/W3C.png)
 
-**结构**
-	`HTML`用于描述页面的结构
-**表现**
-	`CSS`用于控制页面中元素的样式
-**行为**
-	`JavaScript`用于响应用户操作
+- **结构**
+
+  ​	`HTML`用于描述页面的结构
+
+- **表现**
+
+  ​	`CSS`用于控制页面中元素的样式
+
+- **行为**
+
+  ​	`JavaScript`用于响应用户操作
